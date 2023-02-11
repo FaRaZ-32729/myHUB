@@ -1,0 +1,60 @@
+.alert-warning{
+    background-color: #e31b70;
+    color: white;
+}
+.bg{
+    background-color: #e31b70;
+    color: white;
+    border-color: white;
+}
+.demo{
+    color: #e31b70;
+    font-size: larger;
+}
+
+.img1{
+background-image: url(https://images.deliveryhero.io/image/foodpanda/hero-home-pk.jpg?width=1400&height=896);
+height: 50vh;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+margin-bottom: 200px;
+}
+.hw{
+    position: relative;
+    top: 300px;
+}
+.or{
+    position: relative;
+    top: 20px;
+    color: white;
+    margin-right: 4px;
+    margin-left: 4px;
+}
+.img2{
+    background-image: url(https://images.deliveryhero.io/image/foodpanda/home-vendor-pk.jpg?width=1400&height=896);
+    height: 50vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 200px;
+}
+.card1{
+    position: relative;
+    top: 150px;
+}
+.btn1{
+    width: 9em;
+    margin-left: 350px;
+}
+.pic4 {
+    background-color: #e31b70;
+    height: 35vh;
+    margin-bottom: 200px;
+}
+.pic3 {
+    position: relative;
+    display: block;
+    margin-left: auto;
+    top: -100px;
+}
